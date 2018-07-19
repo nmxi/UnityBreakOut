@@ -25,5 +25,5 @@ Unityの初心者向け講座用に作成したサンプルプロジェクトで
 
 4.Enjoy!
 
-# LISENCE
+# LICENSE
 MIT
