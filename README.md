@@ -16,7 +16,7 @@ Unityの初心者向け講座用に作成したサンプルプロジェクトで
 
 ![43g214.gif](https://github.com/nmxi/UnityBreakOut/blob/master/DescriptionImages/43g214.gif)
 
-# Inst
+# How to use
 1.Clone this repository.
 
 2.Unity Setup. (Recommend newer than Unity 2018.1.5f1)
