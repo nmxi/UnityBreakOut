@@ -19,7 +19,7 @@ Unityの初心者向け講座用に作成したサンプルプロジェクトで
 # How to use
 1.Clone this repository.
 
-2.Unity Setup. (Recommend open with Unity 2018.1.5f1 or newer than Unity 2018.1.5f1)
+2.Unity Setup. (Recommend open in Unity 2018.1.5f1 or newer than Unity 2018.1.5f1)
 
 3.Open Project in Unity.
 
